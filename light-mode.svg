@@ -1,7 +1,7 @@
 <svg width="93px" height="20px" viewBox="0 0 93 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <title>light-mode</title>
   <g id="light-mode" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-    <rect id="container" stroke-opacity="0.242788462" stroke="#000000" fill-opacity="0.2" fill="#FFFFFF" x="0.5" y="0.5" width="92" height="19" rx="2"></rect>
+    <rect id="container" stroke-opacity="0.242788462" stroke="#000000" fill-opacity="0.2" fill="#FFFFFF" x="0.5" y="0.5" width="92" height="19" rx="4"></rect>
     <g id="text" transform="translate(10.429688, 4.296875)" fill="#000000" fill-rule="nonzero">
       <polygon id="L" points="5.22070312 8.44335938 1.40039062 8.44335938 1.40039062 1.24804688 0 1.24804688 0 9.703125 5.22070312 9.703125"></polygon>
       <path d="M9.796875,1.86328125 C10.3828125,1.86328125 10.7929688,1.48242188 10.7929688,0.931640625 C10.7929688,0.380859375 10.3828125,0 9.796875,0 C9.21679688,0 8.80664062,0.380859375 8.80664062,0.931640625 C8.80664062,1.48242188 9.21679688,1.86328125 9.796875,1.86328125 Z M12.5214844,9.703125 L12.5214844,8.61328125 L10.5058594,8.61328125 L10.5058594,3.28710938 L7.13085938,3.28710938 L7.13085938,4.37695312 L9.17578125,4.37695312 L9.17578125,8.61328125 L7.06054688,8.61328125 L7.06054688,9.703125 L12.5214844,9.703125 Z" id="i"></path>
